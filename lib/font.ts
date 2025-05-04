@@ -21,7 +21,7 @@ export const verdanaFont = localFont({
             style: 'normal',
         },
         {
-            path: '../public/fonts/Verdana-bold.woff2',
+            path: '../public/fonts/Verdana-Bold.woff2',
             weight: '700',
             style: 'normal',
         },
