@@ -75,15 +75,15 @@ export default function Home() {
               <h2 className="mb-2 text-[15px] md:text-[17px] font-bold">Följ oss</h2>
               <div className="flex gap-4">
                 <Link href="#" className="text-white hover:text-gray-300">
-                  <Facebook size={20} className="md:size-24" />
+                  <Facebook size={20}/>
                   <span className="sr-only">Facebook</span>
                 </Link>
                 <Link href="#" className="text-white hover:text-gray-300">
-                  <Instagram size={20} className="md:size-24" />
+                  <Instagram size={20}/>
                   <span className="sr-only">Instagram</span>
                 </Link>
                 <Link href="#" className="text-white hover:text-gray-300">
-                  <Twitter size={20} className="md:size-24" />
+                  <Twitter size={20}/>
                   <span className="sr-only">Twitter</span>
                 </Link>
               </div>
